@@ -31,6 +31,12 @@
   padding: 40px;
   border-radius: 10px;
 }
+.alertbox {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
 .bg-2 {
   width: 50%;
   height: 30%;
